@@ -2,10 +2,10 @@ import json
 import csv
 import re
 import requests
-from omgsecrets import MAPQUEST_APP_KEY
+from local_settings import (
+        MAPQUEST_APP_KEY, DIVVY_STATIONS_URL
+       ) 
 
-DIVVY_STATIONS_URL = 'http://divvybikes.com/stations/json'
-MAPQUEST_URL = 'http://open.mapquestapi.com/directions/v2/routematrix?key={appkey}'
 
 def distance(latlong1, latlong2):
     """
@@ -19,7 +19,7 @@ def distance(latlong1, latlong2):
                 {'latLng': {'lat': latlong2['latitude'], 'lng': latlong2['longitude']}}
                 ]
             }
-    r = requests.post(MAPQUEST_URL.format(appkey=MAPQUEST_APP_KEY),
+    r = requests.post('http://open.mapquestapi.com/directions/v2/routematrix?key={appkey}'.format(appkey=MAPQUEST_APP_KEY),
                 data=json.dumps(request_body)
             )
     if r.status_code != 200:
