@@ -1,4 +1,3 @@
-from time import sleep
 import json
 import csv
 import re
@@ -67,6 +66,4 @@ if __name__ == "__main__":
             print('Distance between {station1} and {station2} is {d}.'.format(
                     station1=station1['stationName'], station2=station2['stationName'], d=d
                 ))
-            # Let's be nice to Open MapQuest and wait a second in between requests
-            sleep(1.0)
     f.close()
