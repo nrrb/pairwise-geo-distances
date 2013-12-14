@@ -1,2 +1,3 @@
+# Get an account and app key here: http://developer.mapquest.com/
 MAPQUEST_APP_KEY = ''
 DIVVY_STATIONS_URL = 'http://divvybikes.com/stations/json'

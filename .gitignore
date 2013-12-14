@@ -1,5 +1,5 @@
 pythonenv/
-omgsecrets.py
+local_settings.py
 *.py[cod]
 
 # C extensions
