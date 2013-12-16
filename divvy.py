@@ -7,12 +7,13 @@ import requests
 DIVVY_STATIONS_URL = 'http://divvybikes.com/stations/json'
 
 
-def get_station_list():
+def get_station_list(filename=None):
     """
     get_station_list()
 
     :Args:
-    None!
+    filename (optional) - The path to a file containing previously downloaded
+     station information.
 
     :Returns:
     A list of Divvy bike stations with the following information
@@ -36,15 +37,19 @@ def get_station_list():
      u'testStation': False,
      u'totalDocks': 19}
     """
-    response = requests.get(DIVVY_STATIONS_URL)
-    if response.status_code != requests.codes.ok:
-        print("We didn't get a response from Divvy Bikes.")
-        print("We were trying to access this URL: {0}".format(response.url))
-        print("Status code: {0}".format(response.status_code))
-        print("Full response headers:")
-        pprint(dict(response.headers))
-        return
-    station_data = json.loads(response.content)
+    if filename:
+        with open(filename, 'rb') as f:
+            station_data = json.load(f)
+    else:
+        response = requests.get(DIVVY_STATIONS_URL)
+        if response.status_code != requests.codes.ok:
+            print("We didn't get a response from Divvy Bikes.")
+            print("We were trying to access this URL: {0}".format(response.url))
+            print("Status code: {0}".format(response.status_code))
+            print("Full response headers:")
+            pprint(dict(response.headers))
+            return
+        station_data = json.loads(response.content)
     try:
         stations = station_data['stationBeanList']
     except KeyError:
