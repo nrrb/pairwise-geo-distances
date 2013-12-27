@@ -17,3 +17,7 @@ With this data, he was able to avoid calling the [Google Maps API][3] every time
  [1]: https://github.com/alexsoble
  [2]: https://chrome.google.com/webstore/detail/divvybrags/obpfmeilmeicjimgkpekfgmaoelbbfpf
  [3]: https://developers.google.com/maps/documentation/webservices/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tothebeat/pairwise-geo-distances/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
