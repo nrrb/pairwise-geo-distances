@@ -1,0 +1,304 @@
+availableDocks,totalDocks,city,altitude,stAddress2,longitude,lastCommunicationTime,postalCode,statusValue,testStation,stAddress1,stationName,landMark,latitude,statusKey,availableBikes,id,location
+5,19,,,,-87.6277394859,,,Not In Service,False,State St & Harrison St,State St & Harrison St,030,41.8739580629,3,14,5,620 S. State St.
+15,19,Chicago,,,-87.65268082,,,Not In Service,False,Wilton Ave & Diversey Pkwy,Wilton Ave & Diversey Pkwy,066,41.93250008,3,4,13,2790 N.Wilton Ave
+12,15,Chicago,,,-87.651073,,,Not In Service,False,Morgan St & 18th St,Morgan St & 18th St,163,41.858086,3,3,14,962 W. 18th St
+11,15,Chicago,,,-87.6564866473,,,Not In Service,False,Racine Ave & 18th St,Racine Ave & 18th St,164,41.8581806068,3,4,15,1722 S Racine Ave
+8,11,,,,-87.672516,,,Not In Service,False,Wood St & North Ave,Wood St & North Ave,223,41.910329,3,3,16,1553 N Wood St
+10,15,,,,-87.67273,,,Not In Service,False,Wood St & Division St,Wood St & Division St,246,41.90332,3,5,17,1802 W. Divison St
+13,15,Chicago,,,-87.660996,,,Not In Service,False,Loomis St & Taylor St,Loomis St & Taylor St,139,41.869417,3,2,19,
+7,15,Chicago,,,-87.65349723,,,Not In Service,False,Sheffield Ave & Kingsbury St,Sheffield Ave & Kingsbury St,154,41.90959193,3,8,20,1009 W. Weed st
+10,15,Chicago,,,-87.65478743,,,Not In Service,False,Aberdeen St & Jackson Blvd,Aberdeen St & Jackson Blvd,157,41.87772613,3,5,21,1103 W.Jackson Blvd
+12,15,,,,-87.6554864,,,Not In Service,False,May St & Taylor St,May St & Taylor St,160,41.8694821,3,3,22,1134 W. Taylor St
+10,15,,,,-87.637715,,,Not In Service,False,Orleans St & Elm St,Orleans St & Elm St,172,41.902924,3,5,23,350 W. Elm st
+13,15,,,,-87.62062,,,Not In Service,False,Fairbanks Ct & Grand Ave,Fairbanks Ct & Grand Ave,262,41.89186,3,2,24,240 E.Grand Ave.
+15,23,,,,-87.62351,,,Not In Service,False,Michigan Ave & Pearson st,Michigan Ave & Pearson St,034,41.89766,3,8,25,150 E.Pearson st
+15,31,,,,-87.6173,,,Not In Service,False,McClurg Ct & Illinois St,McClurg Ct & Illinois St,051,41.89102,3,15,26,
+15,19,,,,-87.6435,,,Not In Service,False,Larrabee St & North Ave,Larrabee St & North Ave,174,41.91021,3,4,27,1530 N.Larrabee st
+8,15,,,,-87.64332,,,Not In Service,False,Larrabee St & Menomonee St,Larrabee St & Menomonee St,282,41.91468,3,7,28,590 W. Menomonee
+13,15,,,,-87.6626,,,Not In Service,False,Noble St & Milwaukee Ave,Noble St & Milwaukee Ave,290,41.90068,3,2,29,1016 N. Noble st
+13,15,,,,-87.6677,,,Not In Service,False,Ashland Ave & Augusta Blvd,Ashland Ave & Augusta Blvd,248,41.899643,3,2,30,1611 W. Augusta Blvd
+18,23,,,,-87.63563839,,,Not In Service,False,Franklin St & Chicago Ave,Franklin St & Chicago Ave,017,41.89680204,3,5,31,805 N. Franklin St
+11,19,,,,-87.65703,,,Not In Service,False,Racine Ave & Congress Pkwy,Racine Ave & Congress Pkwy,076,41.87464,3,8,32,550 S. Racine
+17,27,,,,-87.627844,,,Not In Service,False,State St & Van Buren St,State St & Van Buren St,003,41.877181,3,10,33,360 S State St
+10,15,,,,-87.6344287848,,,Not In Service,False,Cannon Dr & Fullerton Ave,Cannon Dr & Fullerton Ave,124,41.9267559875,3,5,34,2432 N. Cannon Dr.
+28,39,,,,-87.6122,,,Not In Service,False,Streeter Dr & Illinois St,Streeter Dr & Illinois St,022,41.891071,3,11,35,585 E. Illinois st
+19,31,,,,-87.6353211408,,,Not In Service,False,Franklin St & Jackson Blvd,Franklin St & Jackson Blvd,019,41.8777079559,3,11,36,340 S. Franklin St
+9,19,,,,-87.6297910363,,,Not In Service,False,Dearborn St & Adams St,Dearborn St & Adams St,020,41.8793563587,3,10,37,59 W. Adams St 
+10,15,,,,-87.6253370902,,,Not In Service,False,Wabash Ave & Cermak Rd,Wabash Ave & Cermak Rd,170,41.8532387578,3,5,42,2119 S. Wabash Ave.
+31,43,,,,-87.6246491409,,,Not In Service,False,Michigan Ave & Washington St,Michigan Ave & Washington St,001,41.8838927658,3,12,43,120 N Michigan
+19,27,,,,-87.6277335692,,,Not In Service,False,State St & Randolph St,State St & Randolph St,002,41.8847302006,3,8,44,
+13,15,,,,-87.6244333636,,,Not In Service,False,Michigan Ave & Congress Pkwy,Michigan Ave & Congress Pkwy,040,41.876065599,3,2,45,420 w. Michigan
+17,19,,,,-87.63443007,,,Not In Service,False,Wells St & Walton St,Wells St & Walton St,046,41.89993001,3,2,46,932 N. Wells St.
+15,19,,,,-87.6277,,,Not In Service,False,State St & Kinzie St,State St & Kinzie St,050,41.88918,3,4,47,5 E. Kinzie St.
+17,27,,,,-87.642884,,,Not In Service,False,Larrabee St & Kingsbury St,Larrabee St & Kingsbury St,012,41.897764,3,10,48,840 N. Larrabee St.
+12,23,,,,-87.6295209193,,,Not In Service,False,Dearborn St & Monroe St,Dearborn St & Monroe St,049,41.881319815,3,11,49,80 S. Dearborn St.
+22,27,,,,-87.6305845355,,,Not In Service,False,Clark St & Congress Pkwy,Clark St & Congress Pkwy,009,41.8759326655,3,5,50,
+30,31,,,,-87.63188991,,,Not In Service,False,Clark St & Randolph St,Clark St & Randolph St,005,41.884576228,3,1,51,120 W. Randolph St.
+8,23,,,,-87.6242893413,,,Not In Service,False,Michigan Ave & Lake St,Michigan Ave & Lake St,043,41.8860581151,3,15,52,203 N. Michigan Ave.
+15,19,,,Formerly Wells/Huron,-87.634195,,,Not In Service,False,Wells St & Erie St,Wells St & Erie St,064,41.893832,3,4,53,
+12,19,,,,-87.6540612729,,,Not In Service,False,Ogden Ave & Chicago Ave,Ogden Ave & Chicago Ave,044,41.896362458,3,7,54,1040 W. Chicago Ave.
+12,15,,,,-87.646611,,,Not In Service,False,Halsted St & James M Rochford St,Halsted St & James M Rochford St,166,41.865861,3,3,55,791 W. James M. Rochford St.
+12,19,,,,-87.6444478533,,,Not In Service,False,Desplaines St & Kinzie St,Desplaines St & Kinzie St,039,41.888716036,3,7,56,368 N. Desplaines St.
+10,15,,,,-87.6410879593,,,Not In Service,False,Clinton St & Roosevelt Rd,Clinton St & Roosevelt Rd,327,41.8671177825,3,5,57,559 W. Roosevelt Rd.
+7,15,,,,-87.668919,,,Not In Service,False,Ashland Ave & Armitage Ave,Ashland Ave & Armitage Ave,025,41.9178588677,3,8,58,1639 W. Armitage Ave.
+17,19,,,,-87.6259550069,,,Not In Service,False,Wabash Ave & Roosevelt Rd,Wabash Ave & Roosevelt Rd,031,41.8671729952,3,2,59,1210 S. Wabash Ave.
+12,19,,,,-87.6494219288,,,Not In Service,False,Dayton St & North Ave,Dayton St & North Ave,058,41.9105780349,3,7,60,1575 N. Dayton St.
+10,15,,,,-87.672552,,,Not In Service,False,Wood St & Milwaukee Ave,Wood St & Milwaukee Ave,221,41.907655,3,5,61,1416 N. Wood
+23,27,,,,-87.6188346489,,,Not In Service,False,McCormick Place,McCormick Place,106,41.8513751729,3,4,62,2253 S. Dr. Martin Luther King Jr Dr.
+12,19,,,,-87.6413823149,,,Not In Service,False,Clinton St & Lake St,Clinton St & Lake St,021,41.8858327415,3,7,66,202 N. Clinton St.
+11,15,,,,-87.6537080423,,,Not In Service,False,Sheffield Ave & Fullerton Ave,Sheffield Ave & Fullerton Ave,060,41.9256018819,3,4,67,2410 N. Sheffield Ave.
+20,23,,,,-87.640795,,,Not In Service,False,Clinton St & Tilden St,Clinton St & Tilden St,037,41.875885,3,2,68,520 W. Tilden
+13,19,,,,-87.6776919292,,,Not In Service,False,Damen Ave & Pierce Ave,Damen Ave & Pierce Ave,065,41.9093960065,3,5,69,2002 W. Pierce Ave.
+10,15,,,,-87.6523048564,,,Not In Service,False,Morgan St & Lake St,Morgan St & Lake St,072,41.8854833079,3,5,71,1003 W. Lake St.
+12,15,,,,-87.6277291853,,,Not In Service,False,State St & 16th St,State St & 16th St,148,41.8601213774,3,3,72,1 W. 16th St.
+16,19,,,,-87.642746,,,Not In Service,False,Jefferson St & Monroe St,Jefferson St & Monroe St,038,41.880422,3,3,73,207 S. Jefferson St.
+19,23,,,,-87.64185116,,,Not In Service,False,Kingsbury St & Erie St,Kingsbury St & Erie St,265,41.89384315,3,4,74,511 W Erie
+24,35,,,,-87.63997112,,,Not In Service,False,Canal St & Jackson Blvd,Canal St & Jackson Blvd,138,41.87811421,3,10,75,510 W. Jackson Blvd.
+8,11,,,,-87.61697,,,Not In Service,False,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,300,41.88105,3,3,76,402 E. Monroe St.
+16,23,,,,-87.64127743,,,Not In Service,False,Clinton St & Madison St,Clinton St & Madison St,301,41.8815824,3,7,77,8 S. Clinton St.
+12,19,,,,-87.654752,,,Not In Service,False,Aberdeen St & Madison St,Aberdeen St & Madison St,156,41.881487,3,7,80,1059 W. Madison St.
+35,47,,,,-87.630183,,,Not In Service,False,Daley Center Plaza,Daley Center Plaza,023,41.884337,3,12,81,48 W. Washington St.
+14,19,,,,-87.648727,,,Not In Service,False,Green St & Milwaukee Ave,Green St & Milwaukee Ave,033,41.891733,3,5,84,820 W. Grand Ave.
+5,15,Chicago,,,-87.62377664,,,Not In Service,False,Michigan Ave & Oak St,Michigan Ave & Oak St,042,41.90096039,3,10,85,140 E. Oak St.
+6,15,,,,-87.66098386,,,Not In Service,False,Eckhart Park,Eckhart Park,289,41.89637337,3,9,86,811 N. Noble St.
+13,15,,,,-87.65840426,,,Not In Service,False,Racine Ave & Fullerton Ave,Racine Ave & Fullerton Ave,189,41.92556258,3,2,87,2411 N. Racine
+8,15,,,,-87.655688,,,Not In Service,False,May St & Randolph St,May St & Randolph St,155,41.88397,3,7,88,1213 W. Washington St.
+16,35,,,,-87.62408432,,,Not In Service,False,Millennium Park,Millennium Park,008,41.8810317,3,19,90,33 S. Michigan Ave.
+13,31,,,,-87.64117,,,Not In Service,False,Clinton St & Washington Blvd,Clinton St & Washington Blvd,010,41.88338,3,18,91,109 N. Clinton St.
+14,19,,,,-87.653449,,,Not In Service,False,Carpenter St & Huron St,Carpenter St & Huron St,196,41.894556,3,5,92,
+5,15,,,,-87.652855,,,Not In Service,False,Sheffield Ave & Willow St,Sheffield Ave & Willow St,190,41.913688,3,10,93,1740 N. Sheffield Ave.
+11,19,,,,-87.638116,,,Not In Service,False,Lincoln Ave & Armitage Ave,Lincoln Ave & Armitage Ave,146,41.918273,3,8,94,1963 N. Lincoln Ave.
+20,30,,,"
+
+	
+",-87.617759,,,Not In Service,False,Museum Campus,Museum Campus,029,41.865212,3,10,97,E. McFetridge 
+6,15,,,,-87.63253,,,Not In Service,False,LaSalle St & Washington St,LaSalle St & Washington St,006,41.882664,3,9,98,
+9,19,,,,-87.614492,,,Not In Service,False,Lake Shore Dr & Ohio St,Lake Shore Dr & Ohio St,337,41.89257,3,10,99,
+14,23,,,,-87.63639,,,Not In Service,False,Orleans St & Merchandise Mart Plaza,Orleans St & Merchandise Mart Plaza,013,41.888243,3,9,100,333 N Orleans st 
+23,27,,,,-87.628722,,,Not In Service,False,State St & Pearson St,State St & Pearson St,014,41.897448,3,4,106,
+13,19,Chicago,,,-87.64664,,,Not In Service,False,Halsted St & Polk St,Halsted St & Polk St,027,41.87184,3,6,108,
+13,19,Chicago,,,-87.6498,,,Not In Service,False,Halsted St & Harrison St,900 W Harrison,028,41.8745,3,6,109,
+10,23,Chicago,,,-87.628623,,,Not In Service,False,State St & Erie St,State St & Erie St,045,41.893975,3,13,110,
+13,19,,,,-87.638437,,,Not In Service,False,Sedgwick St & Huron St,Sedgwick St & Huron St,052,41.894666,3,6,111,
+8,15,Chicago ,,,-87.648684,,,Not In Service,False,Green St & Randolph St,Green St & Randolph St,053,41.884078,3,7,112,
+13,15,Chicago ,,,-87.65222,,,Not In Service,False,Bissell St & Armitage Ave,Bissell St & Armitage Ave,059,41.91844,3,2,113,
+18,27,Chicago,,,-87.65445,,,Not In Service,False,Sheffield Ave & Addison St,Sheffield Ave & Addison St,062,41.94688,3,9,114,
+16,23,Chicago,,,-87.653566,,,Not In Service,False,Sheffield Ave & Wellington Ave,Sheffield Ave & Wellington Ave,067,41.936253,3,7,115,
+13,15,Chicago,,,-87.687051,,,Not In Service,False,Western Ave & Winnebago Ave,Western Ave & Winnebago Ave,068,41.915533,3,2,116,
+14,19,Chicago,,,-87.65304,,,Not In Service,False,Wilton Ave & Belmont Ave,Wilton Ave & Belmont Ave,069,41.94018,3,5,117,
+14,19,Chicago,,,-87.638618,,,Not In Service,False,Sedgwick St & North Ave,Sedgwick St & North Ave,070,41.910579,3,5,118,
+13,19,Chicago,,,-87.66732,,,Not In Service,False,Ashland Ave & Lake St,Ashland Ave & Lake St,073,41.88541,3,6,119,
+8,15,Chicago,,,-87.631937,,,Not In Service,False,Wentworth Ave & Archer Ave,Wentworth Ave & Archer Ave,075,41.854564,3,7,120,
+14,15,Chicago,,,-87.590368,,,Not In Service,False,Blackstone Ave & Hyde Park Blvd,Blackstone Ave & Hyde Park Blvd,398,41.802562,3,0,121,Hyde Park
+14,15,Chicago,,,-87.67328,,,Not In Service,False,Congress Pkwy & Ogden Ave,Congress Pkwy & Ogden Ave,081,41.87501,3,1,122,
+6,15,Chicago,,,-87.697153,,,Not In Service,False,California Ave & Milwaukee Ave,California Ave & Milwaukee Ave,084,41.922695,3,9,123,
+12,15,Chicago,,,-87.675726,,,Not In Service,False,Damen Ave & Cullerton St,Damen Ave & Cullerton St,089,41.855048,3,3,124,
+9,15,Chicago ,,,-87.631841,,,Not In Service,False,Clark St & North Ave,Clark St & North Ave,128,41.911791,3,6,126,
+11,15,Chicago ,,,-87.64926,,,Not In Service,False,Lincoln Ave & Fullerton Ave,Lincoln Ave & Fullerton Ave,131,41.925905,3,4,127,
+12,15,Chicago ,,,-87.67722,,,Not In Service,False,Damen Ave & Chicago Ave,Damen Ave & Chicago Ave,132,41.895769,3,3,128,
+5,15,Chicago ,,,-87.661535,,,Not In Service,False,Blue Island Ave & 18th St,Blue Island Ave & 18th St,135,41.857556,3,10,129,
+10,15,Chicago ,,,-87.67695,,,Not In Service,False,Damen Ave & Division St,Damen Ave & Division St,136,41.90331,3,5,130,
+5,15,Chicago ,,,-87.668385,,,Not In Service,False,Lincoln Ave & Belmont Ave,Lincoln Ave & Belmont Ave,140,41.939365,3,10,131,
+12,15,Chicago ,,,-87.631715,,,Not In Service,False,Wentworth Ave & 24th St,Wentworth Ave & 24th St,149,41.849237,3,3,132,
+17,19,Chicago,,,-87.649633,,,Not In Service,False,Peoria St & Jackson Blvd,Peoria St & Jackson Blvd,158,41.877749,3,2,134,
+9,11,Chicago,,,-87.64665,,,Not In Service,False,Halsted St & 21st St,Halsted St & 21st St,162,41.85378,3,2,135,
+7,15,Chicago ,,,-87.656959,,,Not In Service,False,Racine Ave & 13th St,Racine Ave & 13th St,165,41.865054,3,8,136,
+8,15,Chicago ,,,-87.651062,,,Not In Service,False,Morgan Ave & 14th Pl,Morgan Ave & 14th Pl,169,41.862378,3,7,137,
+7,15,Chicago ,,,-87.6405,,,Not In Service,False,Clybourn Ave & Division St,Clybourn Ave & Division St,171,41.904509,3,8,138,
+10,19,Chicago ,,,-87.629928,,,Not In Service,False,Dearborn Pkwy & Delaware Pl,Dearborn Pkwy & Delaware Pl,173,41.899007,3,9,140,
+12,23,Chicago ,,,-87.6346,,,Not In Service,False,Clark St & Lincoln Ave,Clark St & Lincoln Ave,179,41.915689,3,11,141,
+9,15,Chicago ,,,-87.63854,,,Not In Service,False,Sedgwick St & Webster Ave,Sedgwick St & Webster Ave,191,41.92197,3,6,143,
+8,15,Chicago ,,,-87.64401,,,Not In Service,False,Larrabee St & Webster Ave,Larrabee St & Webster Ave,193,41.92175,3,7,144,
+5,11,Chicago ,,,-87.662007,,,Not In Service,False,Loomis St & Jackson Blvd,Loomis St & Jackson Blvd,206,41.877945,3,6,146,
+11,15,Chicago ,,,-87.62248,,,Not In Service,False,Indiana Ave & 26th St,Indiana Ave & 26th St,212,41.8457,3,4,147,
+8,11,Chicago ,,,-87.625813,,,Not In Service,False,State St & 33rd St,State St & 33rd St,216,41.834734,3,3,148,
+8,11,Chicago ,,,-87.61793,,,Not In Service,False,Calumet Ave & 33rd St,Calumet Ave & 33rd St,217,41.8349,3,3,149,
+6,11,Chicago ,,,-87.608218,,,Not In Service,False,Fort Dearborn Dr & 31st St,Fort Dearborn Dr & 31st St,220,41.838556,3,5,150,
+11,15,Chicago ,,,-87.658617,,,Not In Service,False,Lincoln Ave & Diversey Pkwy,Lincoln Ave & Diversey Pkwy,226,41.932225,3,4,152,
+16,19,Chicago ,,,-87.6637,,,Not In Service,False,Southport Ave & Wellington Ave,Southport Ave & Wellington Ave,228,41.93584,3,3,153,
+13,15,Chicago ,,,-87.66378,,,Not In Service,False,Southport Ave & Belmont Ave,Southport Ave & Belmont Ave,229,41.93949,3,2,154,
+10,15,Chicago ,,,-87.6475386582,,,Not In Service,False,Clark St & Wellington Ave,Clark St & Wellington Ave,232,41.9364968219,3,5,156,
+11,15,Chicago ,,,-87.636794,,,Not In Service,False,Lake Shore Dr & Wellington Ave,Lake Shore Dr & Wellington Ave,234,41.936669,3,4,157,
+11,15,Chicago ,,,-87.681391,,,Not In Service,False,Milwaukee Ave & Wabansia Ave,Milwaukee Ave & Wabansia Ave,243,41.912616,3,4,158,
+7,11,Chicago,,,-87.685854,,,Not In Service,False,1451 N Claremont Ave,Claremont Ave & Hirsch St,245,41.907781,3,4,159,
+11,15,Chicago,,,-87.689556,,,Not In Service,False,Campbell Ave & North Ave,Campbell Ave & North Ave,257,41.910535,3,4,160,
+10,15,Chicago,,,-87.67842,,,Not In Service,False,Damen Ave & Wellington Ave,Damen Ave & Wellington Ave,268,41.93588,3,5,162,
+14,15,Chicago,,,-87.67079,,,Not In Service,False,Paulina St & Diversey Pkwy,Paulina St & Diversey Pkwy,271,41.93186,3,1,163,
+14,23,Chicago,,,-87.6355,,,Not In Service,False,Franklin St & Lake St,Franklin St & Lake St,272,41.885837,3,9,164,
+13,19,Chicago,,,-87.65775,,,Not In Service,False,Clark St & Waveland Ave,Clark St & Waveland Ave,275,41.94893,3,6,165,
+8,15,Chicago ,,,-87.668507,,,Not In Service,False,Ashland Ave & Wrightwood Ave,Ashland Ave & Wrightwood Ave,296,41.92883,3,7,166,
+9,11,Chicago ,,,-87.67564,,,Not In Service,False,Damen Ave & Coulter St,Damen Ave & Coulter St,306,41.8492,3,2,167,
+15,19,Chicago ,,,-87.623727,,,Not In Service,False,Michigan Ave & 14th St,Michigan Ave & 14th St,310,41.864059,3,4,168,
+10,15,Chicago ,,,-87.639566,,,Not In Service,False,Canal St & Harrison St,Canal St & Harrison St,326,41.874337,3,5,169,
+14,15,,,,-87.640826,,,Not In Service,False,Clinton St & 18th St,Clinton St & 18th St,329,41.85795,3,1,170,
+7,11,Chicago ,,,-87.654127,,,Not In Service,False,May St & Cullerton St,May St & Cullerton St,331,41.855136,3,4,171,
+8,15,Chicago ,,,-87.621743,,,Not In Service,False,Mies van der Rohe Way & Chicago Ave,Mies van der Rohe Way & Chicago Ave,338,41.89691,3,7,173,
+18,23,Chicago ,,,-87.639833,,,Not In Service,False,Canal St & Madison St,Canal St & Madison St,341,41.882091,3,5,174,
+16,19,Chicago ,,,-87.633523,,,Not In Service,False,Wells St & Polk St,Wells St & Polk St,344,41.872373,3,3,175,
+14,19,Chicago ,,,-87.631253,,,Not In Service,False,Clark St & Elm St,Clark St & Elm St,349,41.903233,3,5,176,
+6,15,Chicago ,,,-87.630834,,,Not In Service,False,Theater on the Lake,Theater on the Lake,350 ,41.926277,3,9,177,
+9,15,Chicago ,,,-87.627542,,,Not In Service,False,State St & 19th St,State St & 19th St,408,41.856594,3,6,178,
+11,15,Chicago,,,-87.61615,,,Not In Service,False,Martin Luther King Dr & Oakwood Blvd,Martin Luther King Dr & Oakwood Blvd,420,41.82256,3,4,179,Off Steet
+15,19,Chicago,,,-87.63206,,,Not In Service,False,LaSalle St & Illinois St,LaSalle St & Illinois St,430,41.890749,3,4,181,On Street
+15,15,Chicago,,,-87.677234,,,Not In Service,False,Damen Ave & Augusta Blvd,Damen Ave & Augusta Blvd,142,41.899714,3,0,183,
+17,19,Chicago,,W. 35th St,-87.62688,,,Not In Service,False,State St & 35th St,State St & 35th St,082,41.83104,3,2,184,
+6,11,Chicago,,,-87.691392,,,Not In Service,False,Stave St & Armitage Ave,Stave St & Armitage Ave,266,41.917741,3,5,185,
+11,15,Chicago,,,-87.658751,,,Not In Service,False,Ogden Ave & Race Ave,Ogden Ave & Race Ave,194,41.891795,3,4,186,
+9,15,,,,-87.6658,,,Not In Service,False,Greenview Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,295,41.92533,3,6,188,
+7,15,Chicago,,,-87.66317,,,Not In Service,False,Southport Ave & Wrightwood Ave,Southport Ave & Wrightwood Ave,298,41.92888,3,8,190,
+10,23,Chicago,,,-87.63947,,,Not In Service,False,Canal St & Monroe St,Canal St & Monroe St,056,41.8807,3,13,191,
+11,27,Chicago,,,-87.640015,,,Not In Service,False,Canal St & Adams St,Canal St & Adams St,011,41.87923,3,16,192,
+10,15,Chicago,,,-87.626938,,,Not In Service,False,State St & 29th St,State St & 29th St,213,41.841707,3,5,193,
+6,11,Chicago,,,-87.62775,,,Not In Service,False,State St & Wacker Dr,State St & Wacker Dr,339,41.887155,3,5,194,
+22,23,Chicago,,,-87.62077,,,Not In Service,False,Columbus Dr & Randolph St,Columbus Dr & Randolph St,263,41.8853,3,1,195,
+9,19,Chicago,,,-87.621994,,,Not In Service,False,Cityfront Plaza & N Water St,Cityfront Plaza & N Water St,427,41.889875,3,10,196,Off Street
+13,19,Chicago,,,-87.625125,,,Not In Service,False,Michigan Ave & Madison St,Michigan Ave & Madison St,036,41.882134,3,6,197,
+13,19,Chicago,,,-87.6478,,,Not In Service,False,Halsted St & Madison St,Halsted St & Madison St,159,41.88175,3,6,198,
+12,15,Chicago,,,-87.626937,,,Not In Service,False,Wabash Ave & Grand Ave,Wabash Ave & Grand Ave,004,41.891738,3,3,199,
+7,11,Chicago,,,-87.616279,,,Not In Service,False,King Dr & 47th St,King Dr & 47th St,090,41.809851,3,4,200,
+13,15,Chicago,,,-87.6216,,,Not In Service,False,Indiana Ave & 40th St,Indiana Ave & 40th St,083,41.82168,3,2,201,
+9,15,Chicago,,,-87.646277,,,Not In Service,False,Halsted St & 18th St,Halsted St & 18th St,099,41.857499,3,6,202,
+13,15,Chicago,,,-87.685243,,,Not In Service,False,Western Ave & 21st St,Western Ave & 21st St,091,41.85394,3,2,203,
+12,15,Chicago,,,-87.61936,,,Not In Service,False,Prairie Ave & Garfield Blvd,Prairie Ave & Garfield Blvd,101,41.7951,3,3,204,
+11,15,Chicago,,,-87.668745,,,Not In Service,False,Paulina St & 18th St,Paulina St & 18th St,088,41.857901,3,4,205,
+7,15,Chicago,,,-87.646795,,,Not In Service,False,Halsted St & Archer Ave,Halsted St & Archer Ave,098,41.847203,3,8,206,
+11,15,Chicago,,,-87.645368,,,Not In Service,False,Emerald Ave & 28th St,Emerald Ave & 28th St,399,41.84358,3,4,207,
+12,15,Chicago,,,-87.665897,,,Not In Service,False,Ashland Ave & 21st St,Ashland Ave & 21st St,307,41.85381,3,3,208,
+10,11,Chicago,,,-87.640591,,,Not In Service,False,Normal Ave & Archer Ave,Normal Ave & Archer Ave,308,41.849527,3,1,209,
+9,19,Chicago,,,-87.66777,,,Not In Service,False,Ashland Ave & Division St,Ashland Ave & Division St,061,41.903456,3,10,210,
+12,19,Chicago,,,-87.622663,,,Not In Service,False,St Clair St & Erie St,St Clair St & Erie St,016,41.894448,3,6,211,
+8,19,Chicago,,,-87.633985,,,Not In Service,False,Wells St & Ohio St,Wells St & Ohio St,264,41.892238,3,11,212,
+8,11,Chicago,,,-87.6824,,,Not In Service,False,Leavitt St & North Ave,Leavitt St & North Ave,244,41.910652,3,3,213,
+14,15,Chicago,,,-87.67686,,,Not In Service,False,Damen Ave & Grand Ave,Damen Ave & Grand Ave,141,41.89122,3,1,214,
+10,15,Chicago,,,-87.67493,,,Not In Service,False,Damen Ave & Madison St,Damen Ave & Madison St,134,41.88137,3,5,215,
+11,15,Chicago,,,-87.697474,,,Not In Service,False,California Ave & Division St,California Ave & Division St,256,41.903029,3,4,216,
+9,15,Chicago,,,-87.656001,,,Not In Service,False,May St & Fulton St,May St & Fulton St,197,41.886773,3,6,217,
+6,11,Chicago,,,-87.633879,,,Not In Service,False,Wells St & 19th St,Wells St & 19th St,180,41.856802,3,5,218,
+10,11,Chicago,,,-87.677411,,,Not In Service,False,Damen Ave & Cortland Ave,Damen Ave & Cortland Ave,133,41.916027,3,1,219,
+6,19,Chicago,,,-87.642385,,,Not In Service,False,Hampden Ct & Diversey Pkwy,Hampden Ct & Diversey Pkwy,123,41.93262,3,13,220,
+17,19,Chicago,,,-87.693033,,,Not In Service,False,Milwaukee Ave & Rockwell St,Milwaukee Ave & Rockwell St,242,41.920195,3,2,222,
+8,15,Chicago,,,-87.656936,,,Not In Service,False,Clifton Ave & Armitage Ave,Clifton Ave & Armitage Ave,185,41.918216,3,7,223,
+14,19,Chicago,,,-87.64884,,,Not In Service,False,Halsted St & Willow St,Halsted St & Willow St,181,41.913778,3,5,224,
+9,15,Chicago,,,-87.64883,,,Not In Service,False,Halsted St & Dickens Ave,Halsted St & Dickens Ave,192,41.919936,3,6,225,
+10,15,Chicago,,,-87.65893,,,Not In Service,False,Racine Ave & Belmont Ave,Racine Ave & Belmont Ave,230,41.93979,3,5,226,
+12,15,Chicago,,,-87.66394,,,Not In Service,False,Southport Ave & Waveland Ave,Southport Ave & Waveland Ave,235,41.94815,3,3,227,
+3,11,Chicago,,,-87.6785,,,Not In Service,False,Damen Ave & Melrose Ave,Damen Ave & Melrose Ave,143,41.9406,3,8,228,
+10,19,Chicago,,,-87.66402,,,Not In Service,False,Southport Ave & Roscoe St,Southport Ave & Roscoe St,071,41.943739,3,9,229,
+11,19,Chicago,,,-87.67097,,,Not In Service,False,Lincoln Ave & Roscoe St,Lincoln Ave & Roscoe St,078,41.94334,3,8,230,
+10,15,Chicago,,,-87.65464,,,Not In Service,False,Sheridan Rd & Montrose Ave,Sheridan Rd & Montrose Ave,130,41.96167,3,5,231,
+10,15,Chicago,,,-87.645416,,,Not In Service,False,Pine Grove Ave & Addison St,Pine Grove Ave & Addison St,273,41.947836,3,5,232,
+13,15,Chicago,,,-87.651148,,,Not In Service,False,Sangamon St & Washington Blvd,Sangamon St & Washington Blvd,409,41.883004,3,2,233,
+17,19,Chicago,,,-87.666036,,,Not In Service,False,Clark St & Montrose Ave,Clark St & Montrose Ave,316,41.961588,3,2,234,
+9,15,Chicago,,,-87.638517,,,Not In Service,False,Sedgwick St & Schiller St,Sedgwick St & Schiller St,410,41.907576,3,6,236,
+10,15,Chicago,,,-87.617,,,Not In Service,False,MLK Jr Dr & 29th St,Martin Luther King Dr & 29th St,214,41.842052,3,5,237,
+9,15,Chicago,,,-87.674101,,,Not In Service,False,Ravenswood Ave & Montrose Ave,Ravenswood Ave & Montrose Ave,092,41.961626,3,6,238,
+12,15,Chicago,,,-87.688487,,,Not In Service,False,Western Ave & Leland Ave,Western Ave & Leland Ave,112,41.966555,3,3,239,
+10,11,Chicago,,,-87.654601,,,Not In Service,False,Sheridan Rd & Irving Park Rd,Sheridan Rd & Irving Park Rd,063,41.95434,3,1,240,
+11,15,Chicago ,,,-87.65103,,,Not In Service,False,Morgan St & Polk St,Morgan St & Polk St,168,41.871737,3,4,241,
+9,15,Chicago ,,,-87.679028,,,Not In Service,False,Damen Ave & Leland Ave,Damen Ave & Leland Ave,093,41.967094,3,6,242,
+9,15,Chicago ,,,-87.684146,,,Not In Service,False,Lincoln Ave & Leavitt St,Lincoln Ave & Leavitt St,126,41.962391,3,6,243,
+12,19,Chicago,,,-87.67393,,,Not In Service,False,Ravenswood Ave & Irving Park Rd,Ravenswood Ave & Irving Park Rd,087,41.95469,3,7,244,
+7,15,Chicago,,,-87.649603,,,Not In Service,False,Clarendon Ave & Junior Ter,Clarendon Ave & Junior Ter,389,41.961004,3,8,245,
+5,11,Chicago,,,-87.668869,,,Not In Service,False,Ashland Ave & Belle Plaine Ave,Ashland Ave & Belle Plaine Ave,249,41.956061,3,6,246,
+11,15,Chicago,,,-87.580715,,,Not In Service,False,Shore Drive & 55th St,Shore Drive & 55th St,361,41.795212,3,4,247,
+13,15,Chicago,,,-87.596471,,,Not In Service,False,Woodlawn Ave & 55th St,Woodlawn Ave & 55th St,362,41.795264,3,2,248,
+9,15,Chicago,,,-87.638181,,,Not In Service,False,Montrose Harbor,Montrose Harbor,388,41.963982,3,6,249,
+15,19,Chicago,,,-87.669807,,,Not In Service,False,Ashland Ave & Wellington Ave,Ashland Ave & Wellington Ave,269,41.936083,3,4,250,
+8,15,Chicago,,,-87.650001,,,Not In Service,False,Clarendon Ave & Leland Ave,Clarendon Ave & Leland Ave,385,41.967968,3,7,251,
+10,15,Chicago,,,-87.599383,,,Not In Service,False,Greenwood Ave & 47th St,Greenwood Ave & 47th St,396,41.809835,3,5,252,
+11,15,Chicago,,,-87.658857,,,Not In Service,False,Clifton Ave & Lawrence Ave,Clifton Ave & Lawrence Ave,104,41.968873,3,4,253,
+9,15,Chicago,,,-87.648043,,,Not In Service,False,Pine Grove Ave & Irving Park Rd,Pine Grove Ave & Irving Park Rd,324,41.954383,3,6,254,
+19,31,Chicago,,,-87.623041,,,Not In Service,False,Indiana Ave & Roosevelt Rd,Indiana Ave & Roosevelt Rd,309,41.867888,3,12,255,
+9,15,Chicago,,,-87.649993,,,Not In Service,False,Broadway & Sheridan Rd,Broadway & Sheridan Rd,323,41.952833,3,6,256,
+12,15,Chicago,,,-87.675112,,,Not In Service,False,Lincoln Ave & Waveland Ave,Lincoln Ave & Waveland Ave,253,41.94911,3,3,257,
+17,19,Chicago,,,-87.685126,,,Not In Service,False,Logan Blvd & Elston Ave,Logan Blvd & Elston Ave,145,41.930584,3,2,258,
+12,15,Chicago,,,-87.69723,,,Not In Service,False,California Ave & Francis Pl,California Ave & Francis Pl,259,41.91855,3,3,259,
+13,19,Chicago,,,-87.707857,,,Not In Service,False,Kedzie Ave & Milwaukee Ave,Kedzie Ave & Milwaukee Ave,085,41.929567,3,6,260,
+10,15,Chicago,,,-87.669886,,,Not In Service,False,Hermitage Ave & Polk St,Hermitage Ave & Polk St,080,41.871514,3,5,261,
+9,11,Chicago,,,-87.645801,,,Not In Service,False,Halsted St & 37th St,Halsted St & 37th St,414,41.827071,3,2,262,On Street
+8,11,Chicago,,,-87.613533,,,Not In Service,False,Rhodes Ave & 32nd St,Rhodes Ave & 32nd St,215,41.836208,3,3,263,
+17,19,Chicago,,,-87.622694,,,Not In Service,False,Stetson Ave & South Water St,Stetson Ave & South Water St,048,41.886861,3,2,264,
+12,15,Chicago,,,-87.6071,,,Not In Service,False,Cottage Grove Ave & Oakwood Blvd,Cottage Grove Ave & Oakwood Blvd,346,41.822985,3,3,265,
+11,15,Chicago,,,-87.591875,,,Not In Service,False,Lake Park Ave & 47th St,Lake Park Ave & 47th St,117,41.809443,3,4,267,
+11,15,Chicago,,,-87.626804,,,Not In Service,False,Lake Shore Dr & North Blvd,Lake Shore Dr & North Blvd,328,41.911722,3,4,268,
+8,11,Chicago,,,-87.606582,,,Not In Service,False,Cottage Grove Ave & 43rd St,Cottage Grove Ave & 43rd St,086,41.816499,3,3,271,
+6,11,Chicago,,,-87.621857,,,Not In Service,False,Indiana Ave & 31st St,Indiana Ave & 31st St,219,41.838842,3,5,272,
+8,15,Chicago,,,-87.623633,,,Not In Service,False,Michigan Ave & 18th St,Michigan Ave & 18th St,150,41.857937,3,7,273,
+12,15,Chicago,,,-87.656625,,,Not In Service,False,Racine Ave & 15th St,Racine Ave & 15th St,304,41.861267,3,3,274,
+8,15,Chicago,,,-87.666507,,,Not In Service,False,Ashland Ave & 13th St,Ashland Ave & 13th St,354,41.865234,3,7,275,
+7,11,Chicago,,,-87.6972,,,Not In Service,False,California Ave & North Ave,California Ave & North Ave,258,41.91044,3,4,276,
+9,15,Chicago,,,-87.666611,,,Not In Service,False,Ashland Ave & Grand Ave,Ashland Ave & Grand Ave,434,41.891072,3,6,277,Off Street
+13,15,Chicago,,,-87.64129,,,Not In Service,False,Wallace Ave & 35th St,Wallace Ave & 35th St,417,41.830629,3,2,278,On Street
+11,15,Chicago,,,-87.647172,,,Not In Service,False,Halsted St & 35th St,Halsted St & 35th St,413,41.830661,3,4,279,
+4,11,Chicago,,,-87.65114,,,Not In Service,False,Morgan St & 31st St,Morgan St & 31st St,097,41.8378,3,7,280,
+10,15,Chicago,,,-87.685109,,,Not In Service,False,Western Ave & 24th St,Western Ave & 24th St,393,41.84847,3,5,281,
+11,15,Chicago,,,-87.64693,,,Not In Service,False,Halsted St & Maxwell St,Halsted St & Maxwell St,161,41.86458,3,4,282,
+8,23,Chicago,,,-87.631985,,,Not In Service,False,LaSalle St & Jackson Blvd,LaSalle St & Jackson Blvd,032,41.87817,3,15,283,
+14,23,Chicago,,,-87.62408,,,Not In Service,False,Michigan Ave & Jackson Blvd,Michigan Ave & Jackson Blvd,340,41.87785,3,9,284,
+11,15,Chicago,,,-87.67203,,,Not In Service,False,Wood St & Grand Ave,Wood St & Grand Ave,432,41.89113,3,4,285,On Street
+13,15,Chicago,,,-87.634793,,,Not In Service,False,Franklin St & Quincy St,Franklin St & Quincy St,007,41.878724,3,2,286,
+18,23,Chicago,,,-87.635185,,,Not In Service,False,Franklin St & Arcade Pl,Franklin St & Arcade Pl,057,41.881131,3,5,287,
+7,11,Chicago,,,-87.64368,,,Not In Service,False,Larrabee St & Armitage Ave,Larrabee St & Armitage Ave,184,41.91797,3,4,288,
+10,19,Chicago,,,-87.634664,,,Not In Service,False,Wells St & Concord Ln,Wells St & Concord Ln,182,41.912202,3,8,289,
+9,15,Chicago,,,-87.707322,,,Not In Service,False,Kedzie Ave & Palmer Ct,Kedzie Ave & Palmer Ct,292,41.921525,3,6,290,
+14,19,Chicago,,,-87.63483,,,Not In Service,False,Wells St & Evergreen Ave,Wells St & Evergreen Ave,302,41.906724,3,5,291,
+7,11,Chicago,,,-87.664199,,,Not In Service,False,Southport Ave & Clark St,Southport Ave & Clark St,317,41.957081,3,4,292,
+12,19,Chicago,,,-87.658774,,,Not In Service,False,Broadway & Wilson Ave,Broadway & Wilson Ave,074,41.965287,3,7,293,
+10,15,Chicago,,,-87.659753,,,Not In Service,False,Broadway & Berwyn Ave,Broadway & Berwyn Ave,109,41.978353,3,5,294,
+10,15,Chicago,,,-87.659637,,,Not In Service,False,Broadway & Argyle St,Broadway & Argyle St,108,41.972972,3,5,295,
+8,15,Chicago,,,-87.645451,,,Not In Service,False,Broadway & Belmont Ave,Broadway & Belmont Ave,277,41.940106,3,7,296,
+11,15,Chicago,,,-87.671387,,,Not In Service,False,Paulina St & Montrose Ave,Paulina St & Montrose Ave,250,41.961507,3,4,297,
+10,15,Chicago,,,-87.679259,,,Not In Service,False,Lincoln Ave & Belle Plaine Ave,Lincoln Ave & Belle Plaine Ave,252,41.955927,3,5,298,
+9,15,Chicago,,,-87.648917,,,Not In Service,False,Halsted St & Roscoe St,Halsted St & Roscoe St,127,41.943662,3,6,299,
+11,15,Chicago,,,-87.644094,,,Not In Service,False,Broadway & Barry Ave,Broadway & Barry Ave,137,41.937739,3,4,300,
+13,19,Chicago,,,-87.631501,,,Not In Service,False,Clark St & Schiller St,Clark St & Schiller St,200,41.907993,3,6,301,
+17,19,Chicago,,,-87.653833,,,Not In Service,False,Sheffield Ave & Wrightwood Ave,Sheffield Ave & Wrightwood Ave,211,41.928712,3,2,302,
+8,15,Chicago,,,-87.64598,,,Not In Service,False,Broadway & Cornelia Ave,Broadway & Cornelia Ave,278,41.945512,3,7,303,
+12,15,Chicago,,,-87.649634,,,Not In Service,False,Halsted St & Waveland Ave,Halsted St & Waveland Ave,325,41.949333,3,3,304,
+13,15,Chicago,,,-87.687275,,,Not In Service,False,Western Ave & Division St,Western Ave & Division St,241,41.902893,3,2,305,
+11,15,Chicago,,,-87.65423,,,Not In Service,False,Sheridan Rd & Buena Ave,Sheridan Rd & Buena Ave,374,41.9584,3,4,306,
+7,15,Chicago,,,-87.663257,,,Not In Service,False,Southport Ave & Clybourn Ave,Southport Ave & Clybourn Ave,186,41.921004,3,8,307,
+7,11,Chicago,,,-87.679618,,,Not In Service,False,Seeley Ave & Roscoe St,Seeley Ave & Roscoe St,144,41.943403,3,4,308,
+7,11,Chicago,,,-87.682437,,,Not In Service,False,Leavitt St & Armitage Ave,Leavitt St & Armitage Ave,286,41.917805,3,4,309,
+5,11,Chicago,,,-87.677855,,,Not In Service,False,Damen Ave & Charleston St,Damen Ave & Charleston St,288,41.920082,3,6,310,
+6,15,Chicago,,,-87.68651,,,Not In Service,False,Lincoln Ave & Eastwood Ave,Lincoln Ave & Eastwood Ave,237,41.96583,3,9,311,
+9,15,Chicago,,,-87.649519,,,Not In Service,False,Clarendon Ave & Gordon Ter,Clarendon Ave & Gordon Ter,379,41.957879,3,6,312,
+16,19,Chicago,,,-87.638973,,,Not In Service,False,Lakeview Ave & Fullerton Pkwy,Lakeview Ave & Fullerton Pkwy,147,41.925858,3,3,313,
+8,15,Chicago,,,-87.673567,,,Not In Service,False,Ravenswood Ave & Berteau Ave,Ravenswood Ave & Berteau Ave,251,41.957921,3,7,314,
+10,11,Chicago,,,-87.682779,,,Not In Service,False,Leavitt St & Hirsch St,Leavitt St & Hirsch St,255,41.906717,3,1,315,
+11,19,Chicago,,,-87.679258,,,Not In Service,False,Damen Ave & Sunnyside Ave,Damen Ave & Sunnyside Ave,315,41.96325,3,8,316,
+13,15,Chicago,,,-87.671045,,,Not In Service,False,Wood St & Taylor St,Wood St & Taylor St,285,41.869154,3,2,317,
+9,15,Chicago,,,-87.664358,,,Not In Service,False,Southport Ave & Irving Park Rd,Southport Ave & Irving Park Rd,321,41.954177,3,6,318,
+14,15,Chicago,,,-87.665939,,,Not In Service,False,Greenview Ave & Diversey Pkwy,Greenview Ave & Diversey Pkwy,294,41.932595,3,1,319,
+10,15,Chicago,,,-87.661501,,,Not In Service,False,Loomis St & Lexington St,Loomis St & Lexington St,332,41.872187,3,5,320,
+5,19,Chicago,,,-87.626106,,,Not In Service,False,Wabash Ave & 8th St,Wabash Ave & 8th St,054,41.871962,3,14,321,
+11,15,Chicago,,,-87.594747,,,Not In Service,False,Kimbark Ave & 53rd St,Kimbark Ave & 53rd St,397,41.799568,3,4,322,
+6,15,Chicago,,,-87.654691,,,Not In Service,False,Sheridan Rd & Lawrence Ave,Sheridan Rd & Lawrence Ave,384,41.969517,3,9,323,
+8,15,Chicago,,,-87.638742,,,Not In Service,False,Stockton Dr & Wrightwood Ave,Stockton Dr & Wrightwood Ave,276,41.93132,3,7,324,
+9,15,Chicago,,,-87.668365,,,Not In Service,False,Clark St & Winnemac Ave,Clark St & Winnemac Ave,392,41.973385,3,6,325,
+8,11,Chicago,,,-87.667429,,,Not In Service,False,Clark St & Leland Ave,Clark St & Leland Ave,239,41.967096,3,3,326,
+14,19,Chicago,,,-87.653714,,,Not In Service,False,Sheffield Ave & Webster Ave,Sheffield Ave & Webster Ave,188,41.921687,3,5,327,
+12,15,Chicago,,,-87.601334,,,Not In Service,False,Ellis Ave & 58th St,Ellis Ave & 58th St,365,41.788746,3,2,328,
+10,15,Chicago,,,-87.63625,,,Not In Service,False,Lake Shore Dr & Diversey Pkwy,Lake Shore Dr & Diversey Pkwy,347,41.932684,3,5,329,
+15,19,Chicago,,,-87.673308,,,Not In Service,False,Lincoln Ave & Addison St,Lincoln Ave & Addison St,077,41.946176,3,4,330,
+9,19,Chicago,,,-87.648568,,,Not In Service,False,Halsted St & Blackhawk St,Halsted St & Blackhawk St,176,41.90854,3,10,331,
+10,15,Chicago,,,-87.648747,,,Not In Service,False,Halsted St & Diversey Pkwy,Halsted St & Diversey Pkwy,208,41.933341,3,5,332,
+10,15,Chicago,,,-87.667252,,,Not In Service,False,Ashland Ave & Blackhawk St,Ashland Ave & Blackhawk St,224,41.907066,3,5,333,
+13,19,Chicago,,,-87.639192,,,Not In Service,False,Lake Shore Dr & Belmont Ave,Lake Shore Dr & Belmont Ave,233,41.940775,3,6,334,
+10,15,Chicago,,,-87.618034,,,Not In Service,False,Calumet Ave & 35th St,Calumet Ave & 35th St,345,41.831379,3,5,335,
+14,15,Chicago,,,-87.606755,,,Not In Service,False,Cottage Grove Ave & 47th St,Cottage Grove Ave & 47th St,422,41.809855,3,1,336,Off Street
+11,19,Chicago,,,-87.630931,,,Not In Service,False,Clark St & Chicago Ave,Clark St & Chicago Ave,303,41.896544,3,8,337,
+5,15,Chicago,,,-87.619407,,,Not In Service,False,Calumet Ave & 18th St,Calumet Ave & 18th St,102,41.857611,3,10,338,
+8,11,Chicago,,,-87.645143,,,Not In Service,False,Emerald Ave & 31st St,Emerald Ave & 31st St,404,41.838198,3,3,339,
+6,15,Chicago,,,-87.643118,,,Not In Service,False,Clark St & Wrightwood Ave,Clark St & Wrightwood Ave,209,41.929546,3,9,340,
+13,19,Chicago,,,-87.607267,,,Not In Service,False,Adler Planetarium,Adler Planetarium,431,41.866095,3,6,341,Off Street
+10,15,Chicago,,,-87.673688,,,Not In Service,False,Wolcott Ave & Polk St,Wolcott Ave & Polk St,284,41.871262,3,5,342,
+12,15,Chicago,,,-87.658971,,,Not In Service,False,Racine Ave & Wrightwood Ave,Racine Ave & Wrightwood Ave,297,41.928887,3,3,343,
+10,15,Chicago,,,-87.676335,,,Not In Service,False,Wolcott Ave & Lawrence Ave,Wolcott Ave & Lawrence Ave,026,41.968641,3,5,344,
+14,15,Chicago,,,-87.587782,,,Not In Service,False,Lake Park Ave & 56th St,Lake Park Ave & 56th St,119,41.793242,3,1,345,
+9,15,Chicago,,,-87.661206,,,Not In Service,False,Ada St & Washington Blvd,Ada St & Washington Blvd,353,41.88283,3,6,346,
+12,15,Chicago,,,-87.6687,,,Not In Service,False,Ashland Ave & Grace St,Ashland Ave & Grace St,319,41.950687,3,3,347,
+13,15,Chicago,,,-87.695445,,,Not In Service,False,California Ave & 21st St,California Ave & 21st St,096,41.854016,3,2,348,
+11,15,Chicago,,,-87.649077,,,Not In Service,False,Halsted St & Wrightwood Ave,Halsted St & Wrightwood Ave,210,41.929143,3,4,349,
+10,15,Chicago,,,-87.667747,,,Not In Service,False,Ashland Ave & Chicago Ave,Ashland Ave & Chicago Ave,247,41.895966,3,5,350,
+13,15,Chicago,,,-87.606615,,,Not In Service,False,Cottage Grove Ave & 51st St,Cottage Grove Ave & 51st St,440,41.803038,3,2,351,Off Street
