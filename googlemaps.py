@@ -41,7 +41,7 @@ def distance_matrix(locations, by_bicycle=False):
 
     :Returns:
 
-    A list of the same length as the input locations, in the 
+    A list of the same length as the input locations, in the
     following format:
 
     [
@@ -50,12 +50,12 @@ def distance_matrix(locations, by_bicycle=False):
      {'start_id': 1, 'end_id': 3, 'distance': 102}
     ]
 
-    This list is the pairwise distance in meters between the 
-    first location and every location in the list including 
-    itself. 
+    This list is the pairwise distance in meters between the
+    first location and every location in the list including
+    itself.
     """
     origin = format_latlong(locations[0])
-    destinations = '|'.join([format_latlong(location) 
+    destinations = '|'.join([format_latlong(location)
                              for location in locations]
                             )
     if by_bicycle:

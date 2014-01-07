@@ -4,10 +4,12 @@ import json
 # Third Party imports
 import requests
 
-DIVVY_STATIONS_URL = 'http://divvybikes.com/stations/json'
+STATIONS_URL_BY_CITY = {
+        'Chicago': 'http://divvybikes.com/stations/json',
+        'New York': 'http://citibikesnyc.com/stations/json'
+}
 
-
-def get_station_list(filename=None):
+def get_station_list(city, filename=None):
     """
     get_station_list()
 
@@ -16,8 +18,8 @@ def get_station_list(filename=None):
      station information.
 
     :Returns:
-    A list of Divvy bike stations with the following information
-    per station: 
+    A list of Alt bike stations with the following information
+    per station:
     {u'altitude': u'',
      u'availableBikes': 9,
      u'availableDocks': 10,
@@ -41,9 +43,16 @@ def get_station_list(filename=None):
         with open(filename, 'rb') as f:
             station_data = json.load(f)
     else:
-        response = requests.get(DIVVY_STATIONS_URL)
-        if response.status_code != requests.codes.ok:
-            print("We didn't get a response from Divvy Bikes.")
+        url = STATIONS_URL_BY_CITY.get(city)
+        if not url:
+            print("{0} is not a recognized city.".format(city))
+            print("Try one of these: {0}".format(
+                    ', '.join(sorted(STATIONS_URL_BY_CITY))))
+            return
+        print("Fetching station list from {0}.".format(url))
+        response = requests.get(url)
+        if response.status_code != requests.codes.OK:
+            print("We didn't get a response from Alt Bikes.")
             print("We were trying to access this URL: {0}".format(response.url))
             print("Status code: {0}".format(response.status_code))
             print("Full response headers:")
@@ -53,7 +62,7 @@ def get_station_list(filename=None):
     try:
         stations = station_data['stationBeanList']
     except KeyError:
-        print("We didn't get the response we expected from Divvy.")
+        print("We didn't get the response we expected from Alt.")
         print("There is no 'stationBeanList' in the returned JSON.")
         print("Here's what we got:")
         pprint(station_data)

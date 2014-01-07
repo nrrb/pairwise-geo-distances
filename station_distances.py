@@ -8,7 +8,7 @@ import csv
 import sys
 import os
 # Local imports
-import divvy
+import altbikes
 import googlemaps
 import mapquest
 
@@ -20,15 +20,17 @@ def array_without_element(array, element):
     return array[:index] + array[index+1:]
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='Pairwise Distance Calculator for Divvy Bike Stations')
+    parser = argparse.ArgumentParser(description='Pairwise Distance Calculator for Alt Bike Stations')
+    parser.add_argument('city', help='One of {0}'.format(
+                            ', '.join(['"{0}"'.format(city) for city in altbikes.STATIONS_URL_BY_CITY])))
     parser.add_argument('output_filename', help='''The path to the CSV file where the output should go.
             NOTE: This will be used to output the cache JSON file that can be used at a later date with
             the --existing-file option.''')
     parser.add_argument('--stations-file', help='''The path to a JSON file containing the stations data as
-        downloaded from Divvy Bikes. Default: the stations data will be downloaded automatically from 
-        the Divvy Bikes website.''')
+        downloaded from altbikes Bikes. Default: the stations data will be downloaded automatically from
+        the altbikes Bikes website.''')
     parser.add_argument('--existing-file', help='''The path to a JSON file generated on a previous run
-        of this script, containing distance in meters between stations identified by their Divvy station
+        of this script, containing distance in meters between stations identified by their altbikes station
         ID number.''')
     return parser.parse_args()
 
@@ -36,10 +38,10 @@ def parse_arguments():
 if __name__ == "__main__":
     arguments = parse_arguments()
     if arguments.stations_file:
-        stations = divvy.get_station_list(filename=arguments.stations_file)
+        stations = altbikes.get_station_list(arguments.city, filename=arguments.stations_file)
     else:
-        print('Getting latest list of bike stations from Divvy...')
-        stations = divvy.get_station_list()
+        print('Getting latest list of bike stations from altbikes...')
+        stations = altbikes.get_station_list(arguments.city)
 
     if arguments.existing_file:
         with open(arguments.existing_file, 'rb') as f:
@@ -49,7 +51,7 @@ if __name__ == "__main__":
     for station_index, station1 in enumerate(stations):
         print("Working on station \"{name}\" ({i} of {N}).".format(
                 name=station1['stationName'],
-                i=station_index+1, 
+                i=station_index+1,
                 N=len(stations)
             ))
         other_stations = array_without_element(stations, station1)
@@ -58,6 +60,7 @@ if __name__ == "__main__":
             other_stations = [station for station in other_stations
                     if str(station['id']) not in existing_distances[str(station1['id'])]]
             print('We have {n} stations left to check.'.format(n=len(other_stations)))
+
         for call_number, station2_index_begin in enumerate(xrange(0, len(other_stations), DISTANCE_MATRIX_SIZE)):
             station2_index_end = station2_index_begin + DISTANCE_MATRIX_SIZE
             locations = [station1] + other_stations[station2_index_begin:station2_index_end]
@@ -93,5 +96,5 @@ if __name__ == "__main__":
                                  distances[start_id][end_id]])
 
 
-    
+
 
