@@ -26,13 +26,13 @@ def distance_matrix(locations, by_bicycle=False):
 
     :Returns:
 
-    A list of floats, the same length as the input list_of_latlongs. 
-    This list is the pairwise distance in meters between the first 
-    location and every location in the list including itself. 
+    A list of floats, the same length as the input list_of_latlongs.
+    This list is the pairwise distance in meters between the first
+    location and every location in the list including itself.
     """
     request_body = {
-            'locations': 
-            [{'latLng': {'lat': location['latitude'], 
+            'locations':
+            [{'latLng': {'lat': location['latitude'],
                          'lng': location['longitude']}}
                 for location in locations],
             'unit': 'k'
